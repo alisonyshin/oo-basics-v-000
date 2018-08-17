@@ -5,8 +5,10 @@ class Book
   @@genres = []
   
   def initialize(title)
+    @title = title
   end
   
+
   
 end
 
